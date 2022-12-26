@@ -37,7 +37,7 @@ Model's prediction on unseen images
 
 -----
 
-## Referencees
+## References
 
 1. Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. arXiv:1506.01497
 2. Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick; Mask R-CNN arXiv:1703.06870
@@ -46,7 +46,7 @@ Model's prediction on unseen images
 5. FAIR’s blog on Detectron2- https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/
 6. Detectron2 - https://github.com/facebookresearch/detectron2
 7. TACO - http://tacodataset.org/
-8 TACO dataset - https://github.com/pedropro/TACO
+8. TACO dataset - https://github.com/pedropro/TACO
 9. Roboflow platform - https://roboflow.com/
 10. R-CNNs - https://d2l.ai/chapter_computer-vision/rcnn.html#r-cnns
 -----
